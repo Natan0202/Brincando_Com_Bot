@@ -29,4 +29,4 @@ intentes = discord.Intents.default()
 intentes.members = True
 
 client = MyClient(intentes=intentes)
-client.run('OTAxMzExNTMwMjc5MjY0MzI2.YXOBxg.qvl3vX9ObcCpB6kc077kOS7W3QI')
+client.run('Your token here!')
